@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\obj\Debug\tipos.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\obj\Debug\tipos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\obj\Debug\tipos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\bin\Debug\tipos.exe.config
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\bin\Debug\tipos.exe
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\bin\Debug\tipos.pdb
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\obj\Debug\tipos.exe
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\tipos\obj\Debug\tipos.pdb

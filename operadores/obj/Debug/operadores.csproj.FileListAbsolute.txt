@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\bin\Debug\operadores.exe.config
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\bin\Debug\operadores.exe
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\bin\Debug\operadores.pdb
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\obj\Debug\operadores.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\obj\Debug\operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\obj\Debug\operadores.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\obj\Debug\operadores.exe
+C:\Users\ASUS\Desktop\COURSES\Open Bootcamp\C#\ejercicios_sesion_2\operadores\obj\Debug\operadores.pdb
